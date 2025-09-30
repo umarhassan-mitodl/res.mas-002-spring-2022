@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-mas-002-day-of-ai-spring-2022/Fj1OICPboCU_transcript.pdf
 file_size: 49685
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
