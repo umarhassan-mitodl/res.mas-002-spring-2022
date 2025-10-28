@@ -5,8 +5,6 @@ draft: false
 file: /courses/res-mas-002-day-of-ai-spring-2022/c9452c8c2ee3102bd624de89178e0c3a_res-mas-002s22.jpg
 file_size: 81324
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Day of AI provides resources for educators to better engage children in
     learning the fundamentals of AI. (Image courtesy of MIT RAISE.)
