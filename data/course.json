@@ -27,9 +27,9 @@
     "website": "res-mas-002-day-of-ai-spring-2022"
   },
   "course_title": "Day of AI",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
-  "course_description": "This resource is to support teachers and educators to run Day of AI activities in their classrooms through curriculum packages and teacher training, all of which is available at no cost to participants.\n\nDeveloped by leading faculty and educators from [MIT RAISE](https://raise.mit.edu/), [the curriculum](https://www.dayofai.org/curriculum) features up to four hours of hands-on activities that engage kids in creative discovery, discussion, and play as they learn the fundamentals of AI, investigate the societal impact of these technologies, and bring artificial intelligence to life through lessons and activities that are accessible to all, even those with no computer science or technical background.",
+  "course_description": "This resource is to support teachers and educators to run Day of AI activities in their classrooms through curriculum packages and teacher training, all of which is available at no cost to participants.\n\nDeveloped by leading faculty and educators from {{% resource_link \"9ba22a97-aac3-4c64-b0f3-4c85c667d4e1\" \"MIT RAISE\" %}}, {{% resource_link \"0121573a-0f43-481d-b642-c80f520bb8b9\" \"the curriculum\" %}} features up to four hours of hands-on activities that engage kids in creative discovery, discussion, and play as they learn the fundamentals of AI, investigate the societal impact of these technologies, and bring artificial intelligence to life through lessons and activities that are accessible to all, even those with no computer science or technical background.",
   "department_numbers": [
     "MAS"
   ],
@@ -39,7 +39,6 @@
     "content": "b50f3d4d-d143-0005-53f1-91f95d844c31",
     "website": "res-mas-002-day-of-ai-spring-2022"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Instructor Insights",
     "Podcasts"
